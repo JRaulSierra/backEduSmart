@@ -1,0 +1,24 @@
+[
+  {
+    "id_estudiante": "5456",
+    "name_estudiante": "nombre",
+    "clases": {
+      "naturalesa": {
+        "tareas": [
+          { "id_tarea": "1231", "nota": "100" },
+          { "id_tarea": "4564", "nota": "100" },
+          { "id_tarea": "456", "nota": "100" },
+          { "id_tarea": "788oo", "nota": "100" }
+        ]
+      },
+      "sociedad": {
+        "tareas": [
+            { "id_tarea": "1231", "nota": "100" },
+            { "id_tarea": "4564", "nota": "100" },
+            { "id_tarea": "456", "nota": "100" },
+            { "id_tarea": "788oo", "nota": "100" }
+          ]
+      }
+    }
+  }
+]

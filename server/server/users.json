@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Admin",
+    "username": "SoporteAdmin",
+    "password": "123456789",
+    "Role": "admin",
+    "clases": "----------",
+    "activo": true,
+    "email": "educasmart.soporte@gmail.com",
+    "telefono": "00000000",
+    "id": 1
+  },
+  {
+    "name": "Profesor",
+    "username": "profesor",
+    "password": "123456789",
+    "Role": "teacher",
+    "Encargado": "Cadete",
+    "clases": ["Naturalesa", "Sociedad"],
+    "activo": true,
+    "email": "prueba@gmail.com",
+    "telefono": "00000000",
+    "id": 2
+  },
+  {
+    "name": "Estudiante",
+    "username": "estudiante",
+    "password": "123456789",
+    "Role": "student",
+    "nivel": "Cadete",
+    "clases": ["Naturalesa", "Sociedad"],
+    "activo": true,
+    "email": "estudiante@gmail.com",
+    "telefono": "00000000",
+    "id": 3
+  }
+]
